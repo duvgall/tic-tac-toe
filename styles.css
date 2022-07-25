@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    color: green;
+    font-size: x-large;
+    margin-top: 30px;
+}
+
+button {
+    width: 100x;
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+table {
+    display: none;;
+    border: 2px solid black;
+    height: 610px;
+    width: 600px;
+}
+
+td {
+    background-color: aquamarine;
+    border: 2px solid black;
+    height: 195px;
+    width: 195px;
+    }
+
+.start-btn {
+    font-size: larger;
+}
+
+.player-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reset {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+
+}
+#reset-btn {
+    display: none;
+    font-size: larger;
+}
